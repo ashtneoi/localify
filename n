@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -eu
+
+N_PREFIX="$HOME/n/env" ~/n/bin/n "$@"
